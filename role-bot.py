@@ -12,7 +12,7 @@ from discord.ext import commands
 
 bot = discord.Bot()
 config = dotenv_values(".env")
-password = "test123"
+
 role_wise_tokens={
     
 }
